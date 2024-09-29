@@ -14,14 +14,14 @@ This repo contains customized codes used in WheatPangenome project. Codes are gr
 All softwares listed in system requirements could be downloaded and installed following instructions on their offical websites.
 
 ## Demos and corresponding instructions
-Demos and corresponding instructions are in each foler.
+Demos and corresponding instructions are in each foler.Demos and corresponding instructions are in each foler.
 
 ## Brief description of code in each folder
-**NLR:**  
+1. **NLR:**  
 Detecting NLR genes from wheat accessions using NLR-Annotator.  
-**CopyNumber:**  
+2. **CopyNumber:**  
 Counting copy number of *VRN-A1* from wheat accessions using NGenomeSyn.  
-**Subtelomere:**  
+3. **Subtelomere:**  
 Detecting subtelomere regions from wheat accessions using RepeatMasker.  
-**NGenomeSyn:**
-Detecting and visualizing the syntenic blocks between wheat accessions using NGenomeSyn.
+4. **NGenomeSyn:**  
+Detecting and visualizing the syntenic blocks between wheat accessions using NGenomeSyn.  
